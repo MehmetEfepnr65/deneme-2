@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\DENEME2\DENEME2\bin\Debug\DENEME2.exe.config
+C:\Users\Pc\documents\visual studio 2012\Projects\DENEME2\DENEME2\bin\Debug\DENEME2.exe
+C:\Users\Pc\documents\visual studio 2012\Projects\DENEME2\DENEME2\bin\Debug\DENEME2.pdb
+C:\Users\Pc\documents\visual studio 2012\Projects\DENEME2\DENEME2\obj\Debug\DENEME2.csprojResolveAssemblyReference.cache
+C:\Users\Pc\documents\visual studio 2012\Projects\DENEME2\DENEME2\obj\Debug\DENEME2.Form1.resources
+C:\Users\Pc\documents\visual studio 2012\Projects\DENEME2\DENEME2\obj\Debug\DENEME2.Properties.Resources.resources
+C:\Users\Pc\documents\visual studio 2012\Projects\DENEME2\DENEME2\obj\Debug\DENEME2.csproj.GenerateResource.Cache
+C:\Users\Pc\documents\visual studio 2012\Projects\DENEME2\DENEME2\obj\Debug\DENEME2.exe
+C:\Users\Pc\documents\visual studio 2012\Projects\DENEME2\DENEME2\obj\Debug\DENEME2.pdb
